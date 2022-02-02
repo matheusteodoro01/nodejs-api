@@ -1,10 +1,10 @@
 # Tutorial para Construção de API
 
-Este tutorial é um complemento às videoaulas disponíveis em: https://www.youtube.com/playlist?list=PLd4Jo6d-yhDLJcFlLzx4SR4WU8hVUmuSQ
 
-Nota: ao clonar este projeto você precisa criar manualmente o arquivo `.env`, conforme explica o tutorial a seguir.
 
-Para saber mais: www.andresjesse.com
+Ao clonar este projeto você precisa criar manualmente o arquivo `.env.
+
+
 
 ## Ambiente e Ferramentas:
 
